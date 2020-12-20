@@ -9,13 +9,13 @@ Most UserScript Managers automatically detect a UserScript if you just click the
 
 ## Current Keyboard Hotkeys
 
-alt+f1: report output
-alt+w: view world info
-alt+r: remember
-alt+a: alter
-alt+z: undo
-alt+y: redo
-alt+q: retry
+* alt+f1: report output
+* alt+w: view world info
+* alt+r: remember
+* alt+a: alter
+* alt+z: undo
+* alt+y: redo
+* alt+q: retry
 
 ## To-Do
 
